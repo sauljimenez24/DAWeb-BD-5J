@@ -6,4 +6,6 @@ Material de apoyo DAWep con conectividad a base de datos
 ## codepen
 - link https://codepen.io/
 ## MATERIAL  CURRICULAR MCLIBRE
--https://www.mclibre.org/ 
+- link https://www.mclibre.org/ 
+## W3Schools Online Web Tutorias
+- link https://www.w3schools.com/
